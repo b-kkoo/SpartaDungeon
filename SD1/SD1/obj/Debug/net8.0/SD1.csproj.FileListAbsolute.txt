@@ -1,0 +1,28 @@
+C:\Users\bmcow\source\repos\SD1\SD1\bin\Debug\net8.0\SD1.exe
+C:\Users\bmcow\source\repos\SD1\SD1\bin\Debug\net8.0\SD1.deps.json
+C:\Users\bmcow\source\repos\SD1\SD1\bin\Debug\net8.0\SD1.runtimeconfig.json
+C:\Users\bmcow\source\repos\SD1\SD1\bin\Debug\net8.0\SD1.dll
+C:\Users\bmcow\source\repos\SD1\SD1\bin\Debug\net8.0\SD1.pdb
+C:\Users\bmcow\source\repos\SD1\SD1\obj\Debug\net8.0\SD1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bmcow\source\repos\SD1\SD1\obj\Debug\net8.0\SD1.AssemblyInfoInputs.cache
+C:\Users\bmcow\source\repos\SD1\SD1\obj\Debug\net8.0\SD1.AssemblyInfo.cs
+C:\Users\bmcow\source\repos\SD1\SD1\obj\Debug\net8.0\SD1.csproj.CoreCompileInputs.cache
+C:\Users\bmcow\source\repos\SD1\SD1\obj\Debug\net8.0\SD1.dll
+C:\Users\bmcow\source\repos\SD1\SD1\obj\Debug\net8.0\refint\SD1.dll
+C:\Users\bmcow\source\repos\SD1\SD1\obj\Debug\net8.0\SD1.pdb
+C:\Users\bmcow\source\repos\SD1\SD1\obj\Debug\net8.0\SD1.genruntimeconfig.cache
+C:\Users\bmcow\source\repos\SD1\SD1\obj\Debug\net8.0\ref\SD1.dll
+C:\Users\bmcow\OneDrive\바탕 화면\kkoo\workspace\SD1\SD1\bin\Debug\net8.0\SD1.exe
+C:\Users\bmcow\OneDrive\바탕 화면\kkoo\workspace\SD1\SD1\bin\Debug\net8.0\SD1.deps.json
+C:\Users\bmcow\OneDrive\바탕 화면\kkoo\workspace\SD1\SD1\bin\Debug\net8.0\SD1.runtimeconfig.json
+C:\Users\bmcow\OneDrive\바탕 화면\kkoo\workspace\SD1\SD1\bin\Debug\net8.0\SD1.dll
+C:\Users\bmcow\OneDrive\바탕 화면\kkoo\workspace\SD1\SD1\bin\Debug\net8.0\SD1.pdb
+C:\Users\bmcow\OneDrive\바탕 화면\kkoo\workspace\SD1\SD1\obj\Debug\net8.0\SD1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bmcow\OneDrive\바탕 화면\kkoo\workspace\SD1\SD1\obj\Debug\net8.0\SD1.AssemblyInfoInputs.cache
+C:\Users\bmcow\OneDrive\바탕 화면\kkoo\workspace\SD1\SD1\obj\Debug\net8.0\SD1.AssemblyInfo.cs
+C:\Users\bmcow\OneDrive\바탕 화면\kkoo\workspace\SD1\SD1\obj\Debug\net8.0\SD1.csproj.CoreCompileInputs.cache
+C:\Users\bmcow\OneDrive\바탕 화면\kkoo\workspace\SD1\SD1\obj\Debug\net8.0\SD1.dll
+C:\Users\bmcow\OneDrive\바탕 화면\kkoo\workspace\SD1\SD1\obj\Debug\net8.0\refint\SD1.dll
+C:\Users\bmcow\OneDrive\바탕 화면\kkoo\workspace\SD1\SD1\obj\Debug\net8.0\SD1.pdb
+C:\Users\bmcow\OneDrive\바탕 화면\kkoo\workspace\SD1\SD1\obj\Debug\net8.0\SD1.genruntimeconfig.cache
+C:\Users\bmcow\OneDrive\바탕 화면\kkoo\workspace\SD1\SD1\obj\Debug\net8.0\ref\SD1.dll
