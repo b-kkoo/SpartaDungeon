@@ -452,7 +452,7 @@ namespace SD1
 
             Console.WriteLine("0. 나가기");
             Console.WriteLine("1. 시궁쥐의 보금자리     | 방어력 5 이상 권장");
-            Console.WriteLine("2. 고블린 소대 주둔지    | 방어력 11 이상 권장");
+            Console.WriteLine("2. 고블린 소대 주둔지    | 방어력 15 이상 권장");
             Console.WriteLine("3. 회색 늑대 무리의 동굴 | 방어력 20 이상 권장\n");
 
             MoveEnterDungeon();
@@ -1558,8 +1558,9 @@ namespace SD1
             }
             else if (move == 1)
             {
-                Console.WriteLine("휴식하기");
-                Console.WriteLine("------------------------------");
+                Console.WriteLine("휴식을 취합니다.");
+                Console.WriteLine("Hp -> 100");
+                Console.WriteLine("------------------------------\n");
                 gold -= 500;
                 Hp = 100;
                 Rest();
