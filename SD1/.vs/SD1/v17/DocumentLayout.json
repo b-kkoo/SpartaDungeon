@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bmcow\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\kkoo\\workspace\\SD1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F44F409-0F0A-45DF-A657-13E7F3F1D1D2}|SD1\\SD1.csproj|c:\\users\\bmcow\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\kkoo\\workspace\\sd1\\sd1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F44F409-0F0A-45DF-A657-13E7F3F1D1D2}|SD1\\SD1.csproj|solutionrelative:sd1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F44F409-0F0A-45DF-A657-13E7F3F1D1D2}|SD1\\SD1.csproj|c:\\users\\bmcow\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\kkoo\\workspace\\sd1\\sd1\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F44F409-0F0A-45DF-A657-13E7F3F1D1D2}|SD1\\SD1.csproj|solutionrelative:sd1\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Data.cs",
+              "DocumentMoniker": "C:\\Users\\bmcow\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\kkoo\\workspace\\SD1\\SD1\\Data.cs",
+              "RelativeDocumentMoniker": "SD1\\Data.cs",
+              "ToolTip": "C:\\Users\\bmcow\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\kkoo\\workspace\\SD1\\SD1\\Data.cs",
+              "RelativeToolTip": "SD1\\Data.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T05:22:44.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bmcow\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\kkoo\\workspace\\SD1\\SD1\\Program.cs",
+              "RelativeDocumentMoniker": "SD1\\Program.cs",
+              "ToolTip": "C:\\Users\\bmcow\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\kkoo\\workspace\\SD1\\SD1\\Program.cs",
+              "RelativeToolTip": "SD1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T00:09:29.963Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
